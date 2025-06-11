@@ -36,7 +36,6 @@ This is a simple React application that displays a list of pizzas using cards. E
 
 ```
 root/
-├── public/
 ├── src/
 │   ├── App.jsx
 │   ├── App.css
